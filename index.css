@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 64px;
+}
+
+button {
+    padding: 0.5rem 1.5rem;
+    margin-top: 2rem;
+    background-color: orange;
+    border: none;
+    border-radius: 0.5rem;
+}
